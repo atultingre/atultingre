@@ -10,9 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atultingre&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=atultingre&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atultingre&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atultingre&theme=discord&no-frame=true&no-bg=false&margin-w=4)
